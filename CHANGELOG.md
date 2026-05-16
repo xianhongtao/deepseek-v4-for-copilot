@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.5.1](https://github.com/Vizards/deepseek-v4-for-copilot/compare/v0.5.0...v0.5.1) (2026-05-16)
+
+
+### Bug Fixes
+
+* **provider:** persist reasoning across reloads ([#79](https://github.com/Vizards/deepseek-v4-for-copilot/issues/79)) ([0605da9](https://github.com/Vizards/deepseek-v4-for-copilot/commit/0605da9af052c9bede99333a39615762ae53ea29))
+* **replay:** persist reasoning and vision markers across turns ([#82](https://github.com/Vizards/deepseek-v4-for-copilot/issues/82)) ([30b725b](https://github.com/Vizards/deepseek-v4-for-copilot/commit/30b725b90b43b5165ac6299354e4f5f05381cc54))
+* report context window correctly ([#71](https://github.com/Vizards/deepseek-v4-for-copilot/issues/71)) ([d8c9b86](https://github.com/Vizards/deepseek-v4-for-copilot/commit/d8c9b86cfcd62304a9893c77224d8c0275781688))
+* **vision:** retain image context in follow-up turns ([#81](https://github.com/Vizards/deepseek-v4-for-copilot/issues/81)) ([797b3d3](https://github.com/Vizards/deepseek-v4-for-copilot/commit/797b3d3f40f1da7c5c64a2f09d273104dcfd094c))
+
 ## [0.5.0](https://github.com/Vizards/deepseek-v4-for-copilot/compare/v0.4.1...v0.5.0) (2026-05-13)
 
 
